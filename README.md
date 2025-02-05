@@ -14,8 +14,8 @@
 - [👾 Features](#-features)
 - [📁 Project Structure](#-project-structure)
 - [🚀 Getting Started](#-getting-started)
-   - [Prerequisites](#-prerequisites)
-  - [Installation](#-installation)
+   - [Prerequisites](#-%EF%B8%8F-prerequisites)
+  - [Installation](#-%EF%B8%8F-installation)
   - [Usage](#-usage)
 - [🔰 Contributing](#-contributing)
 
@@ -56,7 +56,7 @@
 ---
 ## 🚀 Getting Started
 
-### ☑️ Prerequisites<a name="prerequisites"></a>
+### ☑️ Prerequisites
 
 Before getting started with local-ocr, ensure your runtime environment meets the following requirements:
 
@@ -70,7 +70,7 @@ Before getting started with local-ocr, ensure your runtime environment meets the
   ```sh
   ollama pull llama3.2-vision
 
-### ⚙️ Installation<a name="installation"></a>
+### ⚙️ Installation
 
 Install local-ocr using the following method:
 
