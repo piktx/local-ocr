@@ -76,19 +76,19 @@ Before getting started with local-ocr, ensure your runtime environment meets the
 Install local-ocr using the following method:
 
 1. Clone the local-ocr repository:
-```sh
-git clone https://github.com/piktx/local-ocr
-```
+   ```sh
+   git clone https://github.com/piktx/local-ocr
+   ```
 
 2. Navigate to the project directory:
-```sh
-cd local-ocr
-```
+   ```sh
+   cd local-ocr
+   ```
 
 3. Install the project dependencies:
-```sh
-pip install -r requirements.txt
-```
+   ```sh
+   pip install -r requirements.txt
+   ```
 
 
 
