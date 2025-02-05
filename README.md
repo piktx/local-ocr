@@ -64,9 +64,11 @@ Before getting started with local-ocr, ensure your runtime environment meets the
 - **Ollma installations:**
 
   ```sh
-  # Install Ollama
   curl -fsSL https://ollama.ai/install.sh | sh
   ```
+- **Download Llama 3.2 Vision model:**
+  ```sh
+  ollama pull llama3.2-vision
 
 ### ⚙️ Installation
 
@@ -74,17 +76,17 @@ Install local-ocr using the following method:
 
 1. Clone the local-ocr repository:
 ```sh
-$ git clone https://github.com/piktx/local-ocr
+git clone https://github.com/piktx/local-ocr
 ```
 
 2. Navigate to the project directory:
 ```sh
-$ cd local-ocr
+cd local-ocr
 ```
 
 3. Install the project dependencies:
 ```sh
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
@@ -92,5 +94,5 @@ $ pip install -r requirements.txt
 ### 🤖 Usage
 Run local-ocr using the following command:
 ```sh
-$ streamlit run local-ocr.py
+streamlit run local-ocr.py
 ```
