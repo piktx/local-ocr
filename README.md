@@ -14,8 +14,8 @@
 - [👾 Features](#-features)
 - [📁 Project Structure](#-project-structure)
 - [🚀 Getting Started](#-getting-started)
-   - [Prerequisites](#-prerequisites)
-  - [Installation](#-installation)
+   - [Prerequisites](#%EF%B8%8F-prerequisites)
+  - [Installation](#%EF%B8%8F-installation)
   - [Usage](#-usage)
 - [🔰 Contributing](#-contributing)
 
