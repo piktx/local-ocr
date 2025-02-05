@@ -1,13 +1,8 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
-</p>
 <p align="center"><h1 align="center">LOCAL-OCR</h1></p>
 <p align="center">
 	<em><code>❯ REPLACE-ME</code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/piktx/local-ocr?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/piktx/local-ocr?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/piktx/local-ocr?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/piktx/local-ocr?style=default&color=0080ff" alt="repo-language-count">
 </p>
@@ -27,8 +22,8 @@
 - [🚀 Getting Started](#-getting-started)
   - [☑️ Prerequisites](#-prerequisites)
   - [⚙️ Installation](#-installation)
-  - [🤖 Usage](#🤖-usage)
-  - [🧪 Testing](#🧪-testing)
+  - [🤖 Usage](#-usage)
+  - [🧪 Testing](#-testing)
 - [📌 Project Roadmap](#-project-roadmap)
 - [🔰 Contributing](#-contributing)
 - [🎗 License](#-license)
